@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: main.js
+    visible: true
+    highlight_level: NONE
+    text: // Write a function sayHi here
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24016#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 21 Dec 2023 14:49:24 UTC"
+record: -1
+submission_language: javascript
